@@ -2,7 +2,7 @@
 
 Votez pour votre candidat préféré sur la blockchain locale !
 
-![Aperçu de l'interface](./frontend/public/vs.png)
+![Aperçu de l'interface](.\vs.png)
 
 ## Fonctionnalités
 - Smart contract Election (Solidity)
