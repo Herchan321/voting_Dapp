@@ -1,0 +1,22 @@
+.exit
+await c.getCandidateDetai
+await c.getCandidateDetails(0);
+// 4) vérifier le résultat
+await c.connect(other).vote(1);
+// 3) voter en se connectant en tant que 'other' pour candidate index 1 (Candidate 2)
+; } catch(e) { /* ignore si déjà started */ }
+// 2) si l'élection n'est pas démarrée, démarre-try { await c.startElection()
+await c.addVoter(other.address);
+l fait par owner)
+// 1) faire en sorte que 'other' soit électeur (appe
+const c =
+const addr = "<CONTRACT_ADDR>";
+const [owner, other, third] = await ethers.getSigne compte
+.exit
+console.log("code:", code);
+const code = await ethers.provider.getCode(addr);
+const addr = "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512";
+.exit
+> await e.candidatesCount()
+> const e = await ethers.getContractAt("Election","0xVotreAdresseIci")
+const code = await ethers.provider.getCode("0x5FbDB2315678afecb367f032d93F642f64180aa3")
