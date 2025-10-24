@@ -2,7 +2,7 @@
 
 Votez pour votre candidat préféré sur la blockchain locale !
 
-![Aperçu de l'interface](./frontend/public/demo-ui.png)
+![Aperçu de l'interface](./frontend/public/vs.png)
 
 ## Fonctionnalités
 - Smart contract Election (Solidity)
@@ -56,11 +56,10 @@ Votez pour votre candidat préféré sur la blockchain locale !
 - Next.js, React, Ethers.js
 - MetaMask
 
-## Démo
-![Aperçu de l'interface](./frontend/public/demo-ui.png)
+
 
 ## Auteur
-Projet réalisé par [Votre Nom].
+Projet réalisé par Asma.
 
 ---
 Licence MIT
